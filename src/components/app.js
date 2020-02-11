@@ -68,7 +68,7 @@ const App = () => {
         <header
           css={`
             padding: 10px;
-            background-color: #83b4b0;
+            background-color: #e2e2e2;
             position: sticky;
             top: 0;
           `}
