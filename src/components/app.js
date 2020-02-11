@@ -69,8 +69,6 @@ const App = () => {
           css={`
             padding: 10px;
             background-color: #e2e2e2;
-            position: sticky;
-            top: 0;
           `}
         >
           <form
@@ -152,6 +150,10 @@ const App = () => {
                 display: flex;
                 padding: 16px 0;
                 line-height: 1.4;
+
+                img{
+                  margin-right 10px;
+                }
               }
             `}
           >
